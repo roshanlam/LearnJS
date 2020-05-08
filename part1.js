@@ -1,1 +1,1 @@
-console.log('hello world'); // A simple world simple 
+console.log('hello world'); // A simple hello world
